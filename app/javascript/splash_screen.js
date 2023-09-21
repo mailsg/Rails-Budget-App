@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function () {
-    setTimeout(hideSplashScreen, 2000);
+    setTimeout(hideSplashScreen, 3000);
     window.addEventListener('pageshow', function(event) {
         if (event.persisted) {
             hideSplashScreen();

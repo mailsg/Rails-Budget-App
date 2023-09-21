@@ -28,7 +28,7 @@ RSpec.describe 'categories page', type: :system do
         expect(page).to have_selector('form')
         expect(page).to have_field('category[name]')
         expect(page).to have_field('category[icon]')
-        expect(page).to have_button('save')
+        expect(page).to have_button('Save')
       end
     end
 
@@ -40,7 +40,7 @@ RSpec.describe 'categories page', type: :system do
         # Submit the form with invalid data
         fill_in 'category[name]', with: category.name
         fill_in 'category[icon]', with: category.icon
-        click_button 'save'
+        click_button 'Save'
       end
 
       expect(page).to have_current_path(categories_path)
@@ -56,7 +56,7 @@ RSpec.describe 'categories page', type: :system do
         # Submit the form with invalid data
         fill_in 'category[name]', with: category.name
         fill_in 'category[icon]', with: category.icon
-        click_button 'save'
+        click_button 'Save'
       end
 
       expect(page).to have_css('div', text: /did not allow this to be saved:/)

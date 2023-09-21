@@ -18,6 +18,7 @@
 
 .start-link {
   background-color: var(--green);
+  width: 14rem;
 }
 
 .start,
@@ -28,8 +29,9 @@
 }
 
 .image {
-  width: 6rem;
-  height: 6rem;
+  width: 16rem;
+  height: 11rem;
+  margin-right: 0;
 }
 
 /* main page */
