@@ -1,0 +1,19 @@
+<%= stylesheet_link_tag "splash" %>
+
+<section id='splash-screen'>
+  <div class="topic">
+    <h1 class="heading">SpendWise</h1>
+    <%= image_tag "img_inr.jpg", class: "image" %>
+  </div>
+  <div class="welcome">
+    <p >
+      Welcome to SpendWise
+    </p>
+    <p>
+      Smart Spending, Happy Living..!!
+    </p>
+  </div>
+  <div class="start">
+    <%= link_to "Go", new_user_session_path, class: "link_to start-link" %>
+  </div>
+</section>
