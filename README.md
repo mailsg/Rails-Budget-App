@@ -1,3 +1,12 @@
+<div align="center">
+  
+  <img src="webapp.png" alt="logo" width="120"  height="auto" />
+  <br/>
+
+  <h3><b>SpendWise</b></h3>
+
+</div>
+
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
@@ -66,12 +75,12 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-The project is under construction. You can checkout the live demo in some time 👍
+[Live Demo](https://budgetapp-sandeep.onrender.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Project Presentation <a name="Presentation"></a>
-The project is under construction. You can checkout the presentation in some time 👍
+[Presentation](https://www.loom.com/share/4aad897f0c5c47c9815cfdda61f38720?sid=3a490a72-29b2-4221-9cd0-ae0f2652136b)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
