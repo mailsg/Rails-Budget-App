@@ -66,7 +66,7 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-The project is under construction. You can checkout the live demo in some time 👍
+[Live Demo](https://budgetapp-sandeep.onrender.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
